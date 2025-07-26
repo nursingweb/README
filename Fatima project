@@ -1,0 +1,189 @@
+<link rel="canonical" href="https://yourname.github.io/nursing-informatics/">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Nursing Informatics Project</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f8f9fa;
+    }
+    header {
+      background: #006699;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    nav {
+      background: #004466;
+      padding: 10px;
+      text-align: center;
+    }
+    nav a {
+      color: white;
+      margin: 0 15px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    #searchBox {
+      padding: 8px;
+      margin-top: 10px;
+      width: 250px;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+    }
+    section {
+      padding: 20px;
+      max-width: 900px;
+      margin: auto;
+      background: white;
+      margin-top: 20px;
+      border-radius: 8px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    h2 {
+      color: #004466;
+    }
+    footer {
+      text-align: center;
+      padding: 10px;
+      background: #006699;
+      color: white;
+      margin-top: 20px;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 10px;
+    }
+    table, th, td {
+      border: 1px solid #ddd;
+    }
+    th, td {
+      padding: 8px;
+      text-align: left;
+    }
+    th {
+      background: #f2f2f2;
+    }
+    ul {
+      padding-left: 20px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Nursing Informatics</h1>
+    <p>School Project Website</p>
+    <input type="text" id="searchBox" placeholder="Search..." onkeyup="searchContent()">
+  </header>
+
+  <nav>
+    <a href="#introduction">Introduction</a>
+    <a href="#history">Historical Background</a>
+    <a href="#trends">Current Trends</a>
+    <a href="#applications">Applications</a>
+    <a href="#cases">Case Studies</a>
+    <a href="#future">Future Directions</a>
+    <a href="#references">References</a>
+  </nav>
+
+  <section id="introduction">
+    <h2>Introduction to Nursing Informatics</h2>
+    <p>Nursing Informatics integrates nursing science with information and analytical sciences to identify, define, manage, and communicate data, information, knowledge, and wisdom in nursing practice. It supports nurses, patients, and other providers in decision-making in all roles and settings.</p>
+  </section>
+
+  <section id="history">
+    <h2>Historical Background</h2>
+    <p>Research from 2002–2018 found that having a school nurse on staff reduces absenteeism and missed class time, but there is no discernible impact on academic achievement. Nursing informatics has evolved to focus on evidence-based practice and technology integration.</p>
+  </section>
+
+  <section id="trends">
+    <h2>Current Trends and Technologies</h2>
+    <p>Current studies show an increasing emphasis on professional quality of life (QWL), workplace integration, cultural competence, and the use of health informatics tools to improve outcomes.</p>
+  </section>
+
+  <section id="applications">
+    <h2>Applications in Healthcare</h2>
+    <p>Applications include improving clinical decision-making, reducing absenteeism in schools, enhancing patient safety, increasing nurses’ job satisfaction, and integrating school health programs that impact nutrition, hygiene, and disease prevention.</p>
+  </section>
+
+  <section id="cases">
+    <h2>Case Studies</h2>
+    <table>
+      <tr>
+        <th>Title</th>
+        <th>Summary</th>
+        <th>Link</th>
+      </tr>
+      <tr>
+        <td>Working Conditions and Well-Being of School Nurses in Spain</td>
+        <td>Cross-sectional research showed moderate job satisfaction and stress, with disparities between health and education sectors.</td>
+        <td><a href="https://doi.org/10.3390/healthcare13030323" target="_blank">DOI</a></td>
+      </tr>
+      <tr>
+        <td>Quality of Nursing Work Life in Jordan</td>
+        <td>193 nurses showed moderate satisfaction, with QNWL positively linked to job satisfaction.</td>
+        <td><a href="https://doi.org/10.1016/j.heliyon.2022.e09838" target="_blank">DOI</a></td>
+      </tr>
+      <tr>
+        <td>School Nurses’ Cultural Competence</td>
+        <td>Despite feeling less informed, nurses considered themselves moderately competent and culturally sensitive.</td>
+        <td><a href="https://doi.org/10.1111/nhs.12663" target="_blank">DOI</a></td>
+      </tr>
+      <tr>
+        <td>Quality of Work Life of Public School Nurses in the Philippines</td>
+        <td>Study investigated factors influencing nurse retention, well-being, and job satisfaction.</td>
+        <td><a href="https://doi.org/10.14710/nmjn.v9i1.22885" target="_blank">DOI</a></td>
+      </tr>
+      <tr>
+        <td>Fit for School Health Outcome Study</td>
+        <td>Significant health gains in dental cavity prevention, hygiene, and deworming were observed.</td>
+        <td><a href="https://doi.org/10.1186/1471-2458-13-256" target="_blank">DOI</a></td>
+      </tr>
+    </table>
+  </section>
+
+  <section id="future">
+    <h2>Future Directions</h2>
+    <p>Future nursing informatics will emphasize advanced digital health tools, AI-assisted decision support, broader cultural competence training, and programs to improve nurses' QWL, retention, and professional integration.</p>
+  </section>
+
+  <section id="references">
+    <h2>References</h2>
+    <ul>
+      <li>Yonkaitis, C.F. (2018). Evidence-based practice and school nurse practice: A review of literature. <em>Journal of School Nursing, 34</em>(1), 60–67. https://doi.org/10.1177/1059840517728108</li>
+      <li>Yoder, C.M. (2020). School nurses and student academic outcomes: An integrative review. <em>Journal of School Nursing, 36</em>(1), 49–60. https://doi.org/10.1177/1059840518824397</li>
+      <li>Hoskote, A.R., Croce, E., & Johnson, K.E. (2023). The evolution of the role of U.S. school nurses in adolescent mental health. <em>Journal of School Nursing, 39</em>(1), 51–71. https://doi.org/10.1177/10598405211068120</li>
+      <li>Pestaner, M.C., Tyndall, D.E., & Powell, S.B. (2019). The role of the school nurse in suicide interventions. https://doi.org/10.1177/1059840519889679</li>
+      <li>Macairan, K.M.L., et al. (2019). Quality of Work Life of Public School Nurses in the Philippines. <em>Nurse Media Journal of Nursing, 9</em>(1), 1–12. https://doi.org/10.14710/nmjn.v9i1.22885</li>
+      <li>Monse, B., Benzian, H., et al. (2013). The Fit for School health outcome study. https://doi.org/10.1186/1471-2458-13-256</li>
+    </ul>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Nursing Informatics Project</p>
+  </footer>
+
+  <script>
+    function searchContent() {
+      let input = document.getElementById("searchBox").value.toLowerCase();
+      let sections = document.querySelectorAll("section");
+      sections.forEach(section => {
+        if (section.innerText.toLowerCase().includes(input)) {
+          section.style.display = "";
+        } else {
+          section.style.display = "none";
+        }
+      });
+    }
+  </script>
+</body>
+</html>
+<footer>
+  <p>View online: <a href="https://yourname.github.io/nursing-informatics/">Project URL</a></p>
+</footer>
